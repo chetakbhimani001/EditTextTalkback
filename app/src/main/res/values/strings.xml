@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">EditTextTalkback</string>
+    <string name="enter_number_for_talkback_bug">Enter number for talkback bug</string>
+</resources>
